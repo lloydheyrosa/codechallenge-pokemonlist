@@ -1,0 +1,25 @@
+const Palette = {
+    Black: '#000000',
+    Gray200: '#394246',
+    Gray100: '#CDD4D7',
+    Gray50: '#F4F4F4',
+    White: '#FFFFFF',
+    DayInactiveGray: '#4A4A4A',
+    DayActiveGreen: '#00757C',
+    BlueGray50: '#D9D9D9',
+    BlueGray100: '#A0ABAF',
+    BlueGray200: '#262831',
+    BlueGray300: '#181920',
+    NightInactiveGray: '#8D9198',
+    NightActiveGreen: '#009099',
+    Gray300: '#1A1A1A',
+    AlertRed: '#E20000',
+    DarkRed: '#6E0000',
+    LightRed: '#FFCFCF',
+    DarkGreen: '#005000',
+    LightGreen: '#D5FCD5',
+    DarkYellow: '#563800',
+    LightYellow: '#FFF0D4',
+}
+
+export default Palette
